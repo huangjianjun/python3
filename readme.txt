@@ -1,2 +1,2 @@
 this is a simple readme test file 
-测试中外可否
+linux下测试 github 中文可否使用
